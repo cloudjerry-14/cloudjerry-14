@@ -31,7 +31,7 @@ I am a Cloud DevOps Engineer from India 🇮🇳
 
 <!-- CI/CD and Configuration Management -->
 <a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Ansible" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="30" height="30"/></a>&nbsp;&nbsp;
 
 <!-- Containerization and Orchestration -->
 <a href="" target="_blank" title="Docker" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
