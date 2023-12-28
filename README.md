@@ -27,7 +27,7 @@ I am a Cloud DevOps Engineer from India 🇮🇳
 
 <!-- Programming Languages -->
 <a href="" target="_blank" title="Python" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Java" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Java" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 <!-- CI/CD and Configuration Management -->
