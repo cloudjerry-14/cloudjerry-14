@@ -42,6 +42,6 @@ I am a Cloud DevOps Engineer from India 🇮🇳
 <a href="https://www.linkedin.com/in/parihar-ashutosh14/" title="Ashutosh Parihar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/CloudJerry14" target="_blank" title="CloudJerry14" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ashutosh14p/" title="ashutosh14p" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
-<a href="mailto:ashutoshparihar0@gmail.com" target="_blank" title="ashutoshparihar0@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="35" height="40"/></a>
+<a href="mailto:ashutoshparihar0@gmail.com" target="_blank" title="ashutoshparihar0@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>
 
 
