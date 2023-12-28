@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello👋 I'm Ashutosh Parihar 👨🏻‍💻
+## Hello👋 I'm Ashutosh Parihar 👨🏻‍💻 a Cloud DevOps Engineer from India
 
-I am a Cloud DevOps Engineer from India 🇮🇳 
 
 ### Currently I am working with ...
 
