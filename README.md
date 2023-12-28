@@ -30,6 +30,7 @@ I am a Cloud DevOps Engineer from India 🇮🇳
 
 
 <!-- CI/CD and Configuration Management -->
+<a href="" target="_blank" title="GitlabCICD" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitlabCICD" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Jenkins" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Terraform" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="30" height="30"/></a>&nbsp;&nbsp;
 
